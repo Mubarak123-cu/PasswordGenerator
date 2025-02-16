@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 ![Screenshot]
-(ScreenshotPassword.jpg)
+(https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/ScreenshotPassword.jpg)
 (Passwordgenerate1.png)
 (Passwordgenerate2.jpg)
 (Passwordgenerate3.jpg)
