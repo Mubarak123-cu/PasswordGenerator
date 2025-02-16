@@ -6,7 +6,7 @@ A new Flutter project.
 ![Screenshot]
 (https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/ScreenshotPassword.jpg)
 (https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/Passwordgenerate1.png)
-(https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/Passwordgenerate2.jpg)
+(https://github.com/Mubarak123-cu/PasswordGenerator/blob/main/Passwordgenerate2.png)
 (https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/Passwordgenerate3.jpg)
 This project is a starting point for a Flutter application.
 
