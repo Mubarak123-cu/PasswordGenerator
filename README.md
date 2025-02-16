@@ -5,9 +5,9 @@ A new Flutter project.
 ## Getting Started
 ![Screenshot]
 (https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/ScreenshotPassword.jpg)
-(Passwordgenerate1.png)
-(Passwordgenerate2.jpg)
-(Passwordgenerate3.jpg)
+(https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/Passwordgenerate1.png)
+(https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/Passwordgenerate2.jpg)
+(https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/Passwordgenerate3.jpg)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
