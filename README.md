@@ -12,10 +12,10 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
   
 # Screenshots 📷
-|<br> ![](https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/ScreenshotPassword.jpg)
-|<br> ![](https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/Passwordgenerate1.png)
-|<br> ![](https://github.com/Mubarak123-cu/PasswordGenerator/blob/main/Passwordgenerate2.png)
-|<br> ![](https://github.com/Mubarak123-cu/PasswordGenerator/blob/main/passwordgenerate3.png)
+|<br> ![](https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/ScreenshotPassword.jpg)     |<br> ![](https://github.com/Mubarak123-cu/PasswordGenerator/tree/main/Passwordgenerate1.png)
+
+|<br> ![](https://github.com/Mubarak123-cu/PasswordGenerator/blob/main/Passwordgenerate2.png)       |<br> ![](https://github.com/Mubarak123-cu/PasswordGenerator/blob/main/passwordgenerate3.png)
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
